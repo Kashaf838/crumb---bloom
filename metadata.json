@@ -1,0 +1,6 @@
+{
+  "name": "Crumb & Bloom",
+  "description": "Premium cozy bakery e-commerce offering handcrafted cakes, pastries, custom cake designer, and full bakery management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
